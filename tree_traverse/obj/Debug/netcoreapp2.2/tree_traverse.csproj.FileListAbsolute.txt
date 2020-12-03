@@ -1,0 +1,11 @@
+/home/imran/Documents/coding/tree_traverse/bin/Debug/netcoreapp2.2/tree_traverse.deps.json
+/home/imran/Documents/coding/tree_traverse/bin/Debug/netcoreapp2.2/tree_traverse.runtimeconfig.json
+/home/imran/Documents/coding/tree_traverse/bin/Debug/netcoreapp2.2/tree_traverse.runtimeconfig.dev.json
+/home/imran/Documents/coding/tree_traverse/bin/Debug/netcoreapp2.2/tree_traverse.dll
+/home/imran/Documents/coding/tree_traverse/bin/Debug/netcoreapp2.2/tree_traverse.pdb
+/home/imran/Documents/coding/tree_traverse/obj/Debug/netcoreapp2.2/tree_traverse.csprojAssemblyReference.cache
+/home/imran/Documents/coding/tree_traverse/obj/Debug/netcoreapp2.2/tree_traverse.csproj.CoreCompileInputs.cache
+/home/imran/Documents/coding/tree_traverse/obj/Debug/netcoreapp2.2/tree_traverse.AssemblyInfoInputs.cache
+/home/imran/Documents/coding/tree_traverse/obj/Debug/netcoreapp2.2/tree_traverse.AssemblyInfo.cs
+/home/imran/Documents/coding/tree_traverse/obj/Debug/netcoreapp2.2/tree_traverse.dll
+/home/imran/Documents/coding/tree_traverse/obj/Debug/netcoreapp2.2/tree_traverse.pdb

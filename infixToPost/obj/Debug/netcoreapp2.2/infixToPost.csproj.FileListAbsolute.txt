@@ -1,0 +1,11 @@
+/home/imran/Documents/coding/infixToPost/obj/Debug/netcoreapp2.2/infixToPost.csprojAssemblyReference.cache
+/home/imran/Documents/coding/infixToPost/obj/Debug/netcoreapp2.2/infixToPost.csproj.CoreCompileInputs.cache
+/home/imran/Documents/coding/infixToPost/obj/Debug/netcoreapp2.2/infixToPost.AssemblyInfoInputs.cache
+/home/imran/Documents/coding/infixToPost/obj/Debug/netcoreapp2.2/infixToPost.AssemblyInfo.cs
+/home/imran/Documents/coding/infixToPost/bin/Debug/netcoreapp2.2/infixToPost.deps.json
+/home/imran/Documents/coding/infixToPost/bin/Debug/netcoreapp2.2/infixToPost.runtimeconfig.json
+/home/imran/Documents/coding/infixToPost/bin/Debug/netcoreapp2.2/infixToPost.runtimeconfig.dev.json
+/home/imran/Documents/coding/infixToPost/bin/Debug/netcoreapp2.2/infixToPost.dll
+/home/imran/Documents/coding/infixToPost/bin/Debug/netcoreapp2.2/infixToPost.pdb
+/home/imran/Documents/coding/infixToPost/obj/Debug/netcoreapp2.2/infixToPost.dll
+/home/imran/Documents/coding/infixToPost/obj/Debug/netcoreapp2.2/infixToPost.pdb

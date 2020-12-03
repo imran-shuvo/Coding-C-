@@ -1,0 +1,11 @@
+/home/imran/Documents/coding/postToPre/obj/Debug/netcoreapp2.2/postToPre.csprojAssemblyReference.cache
+/home/imran/Documents/coding/postToPre/obj/Debug/netcoreapp2.2/postToPre.csproj.CoreCompileInputs.cache
+/home/imran/Documents/coding/postToPre/obj/Debug/netcoreapp2.2/postToPre.AssemblyInfoInputs.cache
+/home/imran/Documents/coding/postToPre/obj/Debug/netcoreapp2.2/postToPre.AssemblyInfo.cs
+/home/imran/Documents/coding/postToPre/bin/Debug/netcoreapp2.2/postToPre.deps.json
+/home/imran/Documents/coding/postToPre/bin/Debug/netcoreapp2.2/postToPre.runtimeconfig.json
+/home/imran/Documents/coding/postToPre/bin/Debug/netcoreapp2.2/postToPre.runtimeconfig.dev.json
+/home/imran/Documents/coding/postToPre/bin/Debug/netcoreapp2.2/postToPre.dll
+/home/imran/Documents/coding/postToPre/bin/Debug/netcoreapp2.2/postToPre.pdb
+/home/imran/Documents/coding/postToPre/obj/Debug/netcoreapp2.2/postToPre.dll
+/home/imran/Documents/coding/postToPre/obj/Debug/netcoreapp2.2/postToPre.pdb

@@ -1,0 +1,11 @@
+/home/imran/Documents/coding/LinkList/obj/Debug/netcoreapp2.2/LinkList.csprojAssemblyReference.cache
+/home/imran/Documents/coding/LinkList/obj/Debug/netcoreapp2.2/LinkList.csproj.CoreCompileInputs.cache
+/home/imran/Documents/coding/LinkList/obj/Debug/netcoreapp2.2/LinkList.AssemblyInfoInputs.cache
+/home/imran/Documents/coding/LinkList/obj/Debug/netcoreapp2.2/LinkList.AssemblyInfo.cs
+/home/imran/Documents/coding/LinkList/bin/Debug/netcoreapp2.2/LinkList.deps.json
+/home/imran/Documents/coding/LinkList/bin/Debug/netcoreapp2.2/LinkList.runtimeconfig.json
+/home/imran/Documents/coding/LinkList/bin/Debug/netcoreapp2.2/LinkList.runtimeconfig.dev.json
+/home/imran/Documents/coding/LinkList/bin/Debug/netcoreapp2.2/LinkList.dll
+/home/imran/Documents/coding/LinkList/bin/Debug/netcoreapp2.2/LinkList.pdb
+/home/imran/Documents/coding/LinkList/obj/Debug/netcoreapp2.2/LinkList.dll
+/home/imran/Documents/coding/LinkList/obj/Debug/netcoreapp2.2/LinkList.pdb

@@ -1,0 +1,11 @@
+/home/imran/Documents/coding/alignLeft/obj/Debug/netcoreapp2.2/alignLeft.csprojAssemblyReference.cache
+/home/imran/Documents/coding/alignLeft/obj/Debug/netcoreapp2.2/alignLeft.csproj.CoreCompileInputs.cache
+/home/imran/Documents/coding/alignLeft/obj/Debug/netcoreapp2.2/alignLeft.AssemblyInfoInputs.cache
+/home/imran/Documents/coding/alignLeft/obj/Debug/netcoreapp2.2/alignLeft.AssemblyInfo.cs
+/home/imran/Documents/coding/alignLeft/bin/Debug/netcoreapp2.2/alignLeft.deps.json
+/home/imran/Documents/coding/alignLeft/bin/Debug/netcoreapp2.2/alignLeft.runtimeconfig.json
+/home/imran/Documents/coding/alignLeft/bin/Debug/netcoreapp2.2/alignLeft.runtimeconfig.dev.json
+/home/imran/Documents/coding/alignLeft/bin/Debug/netcoreapp2.2/alignLeft.dll
+/home/imran/Documents/coding/alignLeft/bin/Debug/netcoreapp2.2/alignLeft.pdb
+/home/imran/Documents/coding/alignLeft/obj/Debug/netcoreapp2.2/alignLeft.dll
+/home/imran/Documents/coding/alignLeft/obj/Debug/netcoreapp2.2/alignLeft.pdb

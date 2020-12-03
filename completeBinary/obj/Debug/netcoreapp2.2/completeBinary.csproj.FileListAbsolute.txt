@@ -1,0 +1,11 @@
+/home/imran/Documents/coding/tree_traverse/completeBinary/obj/Debug/netcoreapp2.2/completeBinary.csprojAssemblyReference.cache
+/home/imran/Documents/coding/tree_traverse/completeBinary/obj/Debug/netcoreapp2.2/completeBinary.csproj.CoreCompileInputs.cache
+/home/imran/Documents/coding/tree_traverse/completeBinary/obj/Debug/netcoreapp2.2/completeBinary.AssemblyInfoInputs.cache
+/home/imran/Documents/coding/tree_traverse/completeBinary/obj/Debug/netcoreapp2.2/completeBinary.AssemblyInfo.cs
+/home/imran/Documents/coding/tree_traverse/completeBinary/bin/Debug/netcoreapp2.2/completeBinary.deps.json
+/home/imran/Documents/coding/tree_traverse/completeBinary/bin/Debug/netcoreapp2.2/completeBinary.runtimeconfig.json
+/home/imran/Documents/coding/tree_traverse/completeBinary/bin/Debug/netcoreapp2.2/completeBinary.runtimeconfig.dev.json
+/home/imran/Documents/coding/tree_traverse/completeBinary/bin/Debug/netcoreapp2.2/completeBinary.dll
+/home/imran/Documents/coding/tree_traverse/completeBinary/bin/Debug/netcoreapp2.2/completeBinary.pdb
+/home/imran/Documents/coding/tree_traverse/completeBinary/obj/Debug/netcoreapp2.2/completeBinary.dll
+/home/imran/Documents/coding/tree_traverse/completeBinary/obj/Debug/netcoreapp2.2/completeBinary.pdb
