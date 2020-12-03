@@ -1,0 +1,4 @@
+/home/imran/Documents/coding/flatStructure/obj/Debug/netcoreapp2.2/flatStructure.csprojAssemblyReference.cache
+/home/imran/Documents/coding/flatStructure/obj/Debug/netcoreapp2.2/flatStructure.csproj.CoreCompileInputs.cache
+/home/imran/Documents/coding/flatStructure/obj/Debug/netcoreapp2.2/flatStructure.AssemblyInfoInputs.cache
+/home/imran/Documents/coding/flatStructure/obj/Debug/netcoreapp2.2/flatStructure.AssemblyInfo.cs
